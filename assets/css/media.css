@@ -1,0 +1,47 @@
+/* @media (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+}
+@media (max-width: 1400px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+@media (max-width: 1200) {
+  .container {
+    max-width: 960px;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    max-width: 720px;
+  }
+}
+@media (max-width: 768px) {
+  .container {
+    max-width: 540px;
+    margin: auto;
+  }
+  nav .container .links ul {
+    display: flex;
+    width: 90%;
+    flex-direction: column;
+  }
+  header .container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  header .container picture {
+    width: 100%;
+    margin-top: 250px;
+    padding: 20px;
+  }
+  header .container .content {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+  }
+  .main-chefs {
+  }
+} */
